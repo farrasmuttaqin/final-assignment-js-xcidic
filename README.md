@@ -12,3 +12,8 @@ url: https://bookmarks-apis.herokuapp.com/
 | /api/article-categories | article categories data | /:id   | `POST`, `PUT`, `GET`, `DELETE`, `PATCH` |
 | /api/bookmarks          | bookmarks data          | /:id   | `POST`, `PUT`, `GET`, `DELETE`, `PATCH` |
 | /api/categories         | categories data         | /:id   | `POST`, `PUT`, `GET`, `DELETE`, `PATCH` |
+
+=======================
+Team Name :
+
+1. Muhammad Farras Muttaqin
