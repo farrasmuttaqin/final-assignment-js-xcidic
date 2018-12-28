@@ -1,3 +1,10 @@
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+![GitHub forks](https://img.shields.io/github/forks/farrasmuttaqin/final-assignment-js-xcidic.svg)
+![GitHub issues](https://img.shields.io/github/issues/farrasmuttaqin/final-assignment-js-xcidic.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/farrasmuttaqin/final-assignment-js-xcidic.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/farrasmuttaqin/final-assignment-js-xcidic.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/farrasmuttaqin/final-assignment-js-xcidic.svg)
+
 ### Final Assignment Xploring Javascript - Xcidic | Admin APPS
 Simple Admin One Page Admin APPS with Pure Javascript
 
